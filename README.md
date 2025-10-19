@@ -171,8 +171,8 @@ Use **Java 8 or higher** for full Unicode and XML parsing compatibility.
 
 | Language | Dataset | Source |
 |-----------|----------|--------|
-| **English** | `data/corpus.txt` | Compiled from open English text datasets and Wikipedia dumps |
-| **Telugu** | `data/telugu-ds.xml` | Extracted from publicly available Telugu corpora and open-source language datasets |
+| **English** | `data/corpus.txt` | Compiled from open English text datasets and corpus |
+| **Telugu** | `data/telugu-ds.xml` | Compiled from open telugu text datasets and Wikipedia dumps and open-source language datasets |
 
 ---
 
